@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a dedicated Flutter & Front-end Developer wit
 
 <!-- Using skill-icons to match the clean, square look from your reference image -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dart,cs,cpp,py,js,firebase,gcp,flutter,figma,illustrator,ps,github" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,cpp,js,firebase,supabase,figma,illustrator,ps,github" />
 </a>
 
 ## 🌟 Let's Connect!
