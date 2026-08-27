@@ -22,6 +22,6 @@ I’m always open to collaborating on innovative Flutter projects or discussing 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Kholoudeltaib&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Kholoudeltaib&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kholoudeltaib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
